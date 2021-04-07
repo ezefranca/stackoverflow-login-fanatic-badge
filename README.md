@@ -6,7 +6,8 @@
 
 ![Title](https://user-images.githubusercontent.com/22433243/113904008-f757ef80-97a7-11eb-8fff-a395168a2198.png)
 
-StackOverflow Login automation using Github Actions and Ritchie CLI
+StackOverflow Login automation using [Github Actions](https://github.com/features/actions) and [Ritchie CLI](https://ritchiecli.io).
+
 
 ## 📝 Description
 
