@@ -4,6 +4,8 @@
 
 [![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml)
 
+![Title](https://user-images.githubusercontent.com/22433243/113904008-f757ef80-97a7-11eb-8fff-a395168a2198.png)
+
 StackOverflow Login automation using Github Actions and Ritchie CLI
 
 ## Description
