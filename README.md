@@ -63,4 +63,4 @@ In that case, activate **Github Notifications** on your account to be notified i
 
 ## 🧐 Observation
 
-*Note that the automation use webscraping. Consequently, it may need to be updated according to the stackoverflow's site page updates.*
+*As the automation use webscraping, it may need to be updated according to the stackoverflow's site page updates.*
