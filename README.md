@@ -8,7 +8,7 @@
 
 StackOverflow Login automation using Github Actions and Ritchie CLI
 
-## Description
+## 📝 Description
 
 This automation uses a [Ritchie CLI formula](https://github.com/GuillaumeFalourd/formulas-python/tree/master/stackoverflow/login) with **Selenium** and **Chrome Driver** to connect to your stackoverflow account.
 
@@ -16,7 +16,7 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 ```Visit the site each day for 100 consecutive days. (Days are counted in UTC.).```
 
-## Want to automate your login as well?
+## ♻️ Want to automate your login as well?
 
 - Create a new repository (clone or fork this one)
 
@@ -46,10 +46,10 @@ If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
 
 In that case, activate **Github Notifications** on your account to be notified if the workflow fails.
 
-## Secrets
+## 🔐 Secrets
 
 ![Secrets](https://user-images.githubusercontent.com/22433243/113908102-8cf57e00-97ac-11eb-9c94-98ec0a7a2652.png)
 
-## Workflow Demo
+## 🔁 Workflow Demo
 
 ![Workflow Success](https://user-images.githubusercontent.com/22433243/113888519-cde39780-9798-11eb-89bf-9a7518470242.png)
