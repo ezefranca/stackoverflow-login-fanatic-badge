@@ -60,3 +60,7 @@ In that case, activate **Github Notifications** on your account to be notified i
 ## 🔁 Workflow Demo
 
 ![Workflow Success](https://user-images.githubusercontent.com/22433243/113888519-cde39780-9798-11eb-89bf-9a7518470242.png)
+
+### Observation
+
+*Note that the automation use webscraping, so it may need to be updated according to the stackoverflow's site page updates.*
