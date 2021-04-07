@@ -15,7 +15,9 @@ This automation uses this [Ritchie CLI formula](https://github.com/GuillaumeFalo
 
 Using Github Action workflows with a daily scheduled execution, you can easily get your [Fanatic Badge](https://stackoverflow.com/help/badges/83/fanatic).
 
-```Visit the site each day for 100 consecutive days. (Days are counted in UTC.).```
+```bash
+Visit the site each day for 100 consecutive days. (Days are counted in UTC.).
+```
 
 ## ♻️ Want to automate your login as well?
 
