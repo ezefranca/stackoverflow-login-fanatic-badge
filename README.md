@@ -20,7 +20,7 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 - Create a new repository (clone or fork this one)
 
-### Option 1 [➡️](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/1-stackoverflow-login.yml)
+### Option 1 [(workflow)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/1-stackoverflow-login.yml)
 
 [![StackOverflow Login](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml)
 
@@ -31,7 +31,7 @@ If you activate **Github Notifications** on your account to be notified by mail 
   - a secret `RIT_STACKOVERFLOW_PASSWORD` with your stackoverflow account password.
   - a secret `RIT_STACKOVERFLOW_DISPLAY_NAME`  with your stackoverflow account username.
 
-### Option 2 [➡️](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/2-stackoverflow-login.yml)
+### Option 2 [(workflow)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/2-stackoverflow-login.yml)
 
 
 [![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml)
