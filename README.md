@@ -20,7 +20,9 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 **Create a new repository** (you can clone or fork this one)
 
-```git clone https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge.git```
+```bash
+git clone https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge.git
+```
 
 Then, you have 2 options:
 
