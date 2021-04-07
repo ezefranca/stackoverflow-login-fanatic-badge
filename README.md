@@ -46,6 +46,10 @@ If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
 
 In that case, activate **Github Notifications** on your account to be notified if the workflow fails.
 
-## Demo
+## Secrets
+
+![Secrets](https://user-images.githubusercontent.com/22433243/113908102-8cf57e00-97ac-11eb-9c94-98ec0a7a2652.png)
+
+## Workflow Demo
 
 ![Workflow Success](https://user-images.githubusercontent.com/22433243/113888519-cde39780-9798-11eb-89bf-9a7518470242.png)
