@@ -22,7 +22,7 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 ### Option 1
 
-[Workflow file](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/1-stackoverflow-login.yml): [![StackOverflow Login](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml)
+[![StackOverflow Login](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml) (➡️ [Workflow file](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/1-stackoverflow-login.yml))
 
 If you activate **Github Notifications** on your account to be notified by mail if the workflow fails.
 
@@ -33,7 +33,7 @@ If you activate **Github Notifications** on your account to be notified by mail 
 
 ### Option 2
 
-[Workflow file](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/2-stackoverflow-login.yml): [![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml)
+[![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml) (➡️ [Workflow file](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/2-stackoverflow-login.yml))
 
 If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
 
