@@ -1,5 +1,9 @@
 # stackoverflow-login-fanatic-badge
 
+[![StackOverflow Login](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml)
+
+[![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml)
+
 StackOverflow Login automation using Github Actions and Ritchie CLI
 
 ## Description
@@ -18,16 +22,16 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 - Create a new repository (clone or fork this one)
 
-### Option 1
+### Option 1 [![StackOverflow Login](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml)
+
+If you activate **Github Notifications** on your account to be notified by mail if the workflow fails.
 
 - Add 3 secrets on the new repository ([here is a reference](https://docs.github.com/en/actions/reference/encrypted-secrets)):
   - a secret `RIT_STACKOVERFLOW_EMAIL` with your stackoverflow account email.
   - a secret `RIT_STACKOVERFLOW_PASSWORD` with your stackoverflow account password.
   - a secret `RIT_STACKOVERFLOW_DISPLAY_NAME`  with your stackoverflow account username.
 
-In that case, activate **Github Notifications** on your account to be notified if the workflow fails.
-
-### Option 2
+### Option 2 [![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml)
 
 If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
 
