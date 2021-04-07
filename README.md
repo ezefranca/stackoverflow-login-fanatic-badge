@@ -45,7 +45,7 @@ If you activate **Github Notifications** on your account to be notified by mail 
 
 [![StackOverflow Login (with SendGrid)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/2-stackoverflow-login.yml)
 
-If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
+If you use **[SendGrid](https://sendgrid.com/)** (it's **FREE** until 100 emails sent / day).
 
 - Add 5 secrets on the new repository ([here is a reference](https://docs.github.com/en/actions/reference/encrypted-secrets)):
   - a secret `RIT_STACKOVERFLOW_EMAIL` with your stackoverflow account email.
