@@ -38,7 +38,7 @@ If you activate **Github Notifications** on your account to be notified by mail 
 
 If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
 
-- Add 2 secrets on the new repository ([here is a reference](https://docs.github.com/en/actions/reference/encrypted-secrets)):
+- Add 5 secrets on the new repository ([here is a reference](https://docs.github.com/en/actions/reference/encrypted-secrets)):
   - a secret `RIT_STACKOVERFLOW_EMAIL` with your stackoverflow account email.
   - a secret `RIT_STACKOVERFLOW_PASSWORD` with your stackoverflow account password.
   - a secret `RIT_STACKOVERFLOW_DISPLAY_NAME`  with your stackoverflow account username.
