@@ -20,6 +20,10 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 - Create a new repository (clone or fork this one)
 
+```git clone https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge.git```
+
+Then, you have 2 options:
+
 ### Option 1 [(workflow)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/blob/main/.github/workflows/1-stackoverflow-login.yml)
 
 [![StackOverflow Login](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml/badge.svg)](https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge/actions/workflows/1-stackoverflow-login.yml)
