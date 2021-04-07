@@ -4,7 +4,9 @@ StackOverflow Login automation using Github Actions and Ritchie CLI
 
 ## Description
 
-The [Ritchie CLI formula](https://github.com/GuillaumeFalourd/formulas-python/tree/master/stackoverflow/login) uses **Selenium** with a **Chrome Driver** to connect to your stackoverflow account, which can be useful to earn the [Fanatic Badge](https://stackoverflow.com/help/badges/83/fanatic).
+This automation uses a [Ritchie CLI formula](https://github.com/GuillaumeFalourd/formulas-python/tree/master/stackoverflow/login) with **Selenium** and **Chrome Driver** to connect to your stackoverflow account.
+
+Using Github Action workflows with a daily scheduled execution, you can easily get your [Fanatic Badge](https://stackoverflow.com/help/badges/83/fanatic).
 
 ```Visit the site each day for 100 consecutive days. (Days are counted in UTC.).```
 
