@@ -18,7 +18,7 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 ## ♻️ Want to automate your login as well?
 
-- Create a new repository (clone or fork this one)
+**Create a new repository** (you can clone or fork this one)
 
 ```git clone https://github.com/GuillaumeFalourd/stackoverflow-login-fanatic-badge.git```
 
