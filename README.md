@@ -14,10 +14,6 @@ Using Github Action workflows with a daily scheduled execution, you can easily g
 
 ```Visit the site each day for 100 consecutive days. (Days are counted in UTC.).```
 
-## Demo
-
-![Workflow Success](https://user-images.githubusercontent.com/22433243/113888519-cde39780-9798-11eb-89bf-9a7518470242.png)
-
 ## Want to automate your login as well?
 
 - Create a new repository (clone or fork this one)
@@ -47,3 +43,7 @@ If you use **SendGrid** (it's **FREE** until 100 emails sent / day).
   - a secret `RIT_SENDGRID_EMAIL_SENDER` with yoru sendgrid email sender address.
 
 In that case, activate **Github Notifications** on your account to be notified if the workflow fails.
+
+## Demo
+
+![Workflow Success](https://user-images.githubusercontent.com/22433243/113888519-cde39780-9798-11eb-89bf-9a7518470242.png)
